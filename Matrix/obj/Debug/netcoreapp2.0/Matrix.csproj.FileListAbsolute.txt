@@ -1,0 +1,11 @@
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\bin\Debug\netcoreapp2.0\Matrix.deps.json
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\bin\Debug\netcoreapp2.0\Matrix.runtimeconfig.json
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\bin\Debug\netcoreapp2.0\Matrix.runtimeconfig.dev.json
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\bin\Debug\netcoreapp2.0\Matrix.dll
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\bin\Debug\netcoreapp2.0\Matrix.pdb
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\obj\Debug\netcoreapp2.0\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\obj\Debug\netcoreapp2.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\obj\Debug\netcoreapp2.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\obj\Debug\netcoreapp2.0\Matrix.AssemblyInfo.cs
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\obj\Debug\netcoreapp2.0\Matrix.dll
+C:\Users\emin.mandradzhi\source\repos\Matrixes\Matrix\obj\Debug\netcoreapp2.0\Matrix.pdb
